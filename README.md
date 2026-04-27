@@ -8,6 +8,12 @@ Built for job seekers who want a CV that passes Applicant Tracking Systems **and
 
 ---
 
+## Example Output
+
+![CV Example](c.v.png)
+
+---
+
 ## What It Does
 
 - **Detects your mode automatically** — upload an existing CV to reconstruct it, or start from scratch
