@@ -12,7 +12,7 @@ Built for job seekers who want a CV that passes Applicant Tracking Systems **and
 
 ![CV Example](c.v.png)
 
-*2-page sample — fake candidate data, bullets drawn from real diverse job postings online.*
+*2-page sample with fake candidate data, bullets drawn from real diverse job postings online.*
 
 ---
 
